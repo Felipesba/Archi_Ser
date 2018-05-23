@@ -343,6 +343,14 @@
         </child>
         <child xsi:type="archimate:DiagramObject" id="864db1c8-e54b-4944-a388-d248daeb3b9c" archimateElement="4fd7cbad-e270-4220-a600-53c72329fb58">
           <bounds x="36" y="48" width="481" height="280"/>
+          <sourceConnection xsi:type="archimate:Connection" id="085a1cad-7c88-4556-a62d-6a4cd2d86662" source="864db1c8-e54b-4944-a388-d248daeb3b9c" target="8deb21eb-1c30-4678-9f23-e4347f400067" archimateRelationship="b2045fcc-50d7-4a66-824b-ee5273d30504"/>
+          <child xsi:type="archimate:DiagramObject" id="8deb21eb-1c30-4678-9f23-e4347f400067" targetConnections="085a1cad-7c88-4556-a62d-6a4cd2d86662" archimateElement="88007348-97fd-4da0-adcc-cf2c31e54e6a">
+            <bounds x="24" y="36" width="361" height="217"/>
+            <sourceConnection xsi:type="archimate:Connection" id="22b504f0-3f82-458a-9f09-9d9abb4e9522" source="8deb21eb-1c30-4678-9f23-e4347f400067" target="0bba18b8-8344-48b4-94e2-250f6079ba2c" archimateRelationship="ed58def7-3ae7-47c5-9fb4-ca1bd9f22f39"/>
+            <child xsi:type="archimate:DiagramObject" id="0bba18b8-8344-48b4-94e2-250f6079ba2c" targetConnections="22b504f0-3f82-458a-9f09-9d9abb4e9522" archimateElement="bfb2498e-9714-4e25-b20c-ada476796493">
+              <bounds x="24" y="36" width="120" height="55"/>
+            </child>
+          </child>
         </child>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="AA - MENU PRODUTO - Nivel 1" id="172c6b79-fc9f-4a19-ab25-5da043579d6a">
