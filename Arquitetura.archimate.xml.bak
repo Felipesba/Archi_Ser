@@ -90,6 +90,7 @@
     <element xsi:type="archimate:ApplicationComponent" name="Bônus" id="09601df7-c6e2-40f1-aa31-0a75d2601855"/>
     <element xsi:type="archimate:ApplicationFunction" name="Manter Campanha de Gratuidade" id="841c69a1-f5b4-4257-baed-d0332ad8dc43"/>
     <element xsi:type="archimate:ApplicationFunction" name="Cadastrar Oferta de Desconto " id="ddc8fe06-490b-4bf9-a9d4-93cefc6eb1df"/>
+    <element xsi:type="archimate:ApplicationFunction" name="teste versao" id="4f5ff0ba-c265-4e93-a815-01f16c015b71"/>
   </folder>
   <folder name="Technology &amp; Physical" id="8f585163-0667-457e-a2a4-d3108a04471f" type="technology">
     <element xsi:type="archimate:SystemSoftware" name="CONCENTRE - DB2 - PA" id="212ffcef-21c5-4e70-a6e4-8c3bb61c102e"/>
@@ -188,6 +189,7 @@
     <element xsi:type="archimate:RealizationRelationship" id="9f624492-217c-4e53-bcf0-fe0213be7905" source="cd44c873-9e54-4345-8a1c-22342f98dc41" target="09601df7-c6e2-40f1-aa31-0a75d2601855"/>
     <element xsi:type="archimate:AssignmentRelationship" id="47df0faa-4d25-4108-930c-ec9bc8933ac5" source="09601df7-c6e2-40f1-aa31-0a75d2601855" target="841c69a1-f5b4-4257-baed-d0332ad8dc43"/>
     <element xsi:type="archimate:AssignmentRelationship" id="45a092a5-e63b-4b91-83f6-e226b684f44b" source="09601df7-c6e2-40f1-aa31-0a75d2601855" target="ddc8fe06-490b-4bf9-a9d4-93cefc6eb1df"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="fa38b559-34b5-433a-8da3-075547d073de" source="4fd7cbad-e270-4220-a600-53c72329fb58" target="4f5ff0ba-c265-4e93-a815-01f16c015b71"/>
   </folder>
   <folder name="Views" id="d1f0a9c9-271f-45a3-8378-7c906bc91ebe" type="diagrams">
     <folder name="Gerenciador" id="bd40d459-1dbc-425b-8093-5dc95cc1ba21">
@@ -343,6 +345,10 @@
         </child>
         <child xsi:type="archimate:DiagramObject" id="864db1c8-e54b-4944-a388-d248daeb3b9c" archimateElement="4fd7cbad-e270-4220-a600-53c72329fb58">
           <bounds x="36" y="48" width="481" height="280"/>
+          <sourceConnection xsi:type="archimate:Connection" id="acd582e4-fef6-4f0b-9a30-79f361528e2e" source="864db1c8-e54b-4944-a388-d248daeb3b9c" target="71ee857f-cf41-4b4c-aca7-e1788f50ef39" archimateRelationship="fa38b559-34b5-433a-8da3-075547d073de"/>
+          <child xsi:type="archimate:DiagramObject" id="71ee857f-cf41-4b4c-aca7-e1788f50ef39" targetConnections="acd582e4-fef6-4f0b-9a30-79f361528e2e" archimateElement="4f5ff0ba-c265-4e93-a815-01f16c015b71">
+            <bounds x="154" y="136" width="120" height="55"/>
+          </child>
         </child>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="AA - MENU PRODUTO - Nivel 1" id="172c6b79-fc9f-4a19-ab25-5da043579d6a">
