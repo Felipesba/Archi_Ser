@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Server"
-    id="1558dce1-29b0-4f45-9bd4-f44cd313ddb8"/>
+    name="External Server Digital Certificate Validation"
+    id="1558dce1-29b0-4f45-9bd4-f44cd313ddb8"
+    documentation="Validação do certificado digital"/>
