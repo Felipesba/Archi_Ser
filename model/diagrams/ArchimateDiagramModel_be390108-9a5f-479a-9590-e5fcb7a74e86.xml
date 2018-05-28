@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Architeture"
+    id="be390108-9a5f-479a-9590-e5fcb7a74e86">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="b3088507-6942-46eb-89b4-4663315b7bb5"
+      name="Credit"
+      textAlignment="1">
+    <bounds
+        x="56"
+        y="49"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
