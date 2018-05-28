@@ -52,9 +52,6 @@ GR76</documentation>
       <element xsi:type="archimate:ApplicationFunction" name="Offert Package to Simplifly" id="9238adf6-6c91-4d83-b366-8bc226da5caa"/>
       <element xsi:type="archimate:ApplicationFunction" name="Product Transaction" id="9b34f8a4-8fbd-47da-b826-d29c58d6afeb"/>
       <element xsi:type="archimate:ApplicationFunction" name="Prorogate Client Prospect Access" id="abc7b4a4-6be0-424a-9ddf-6ea0974cfb0f"/>
-      <element xsi:type="archimate:ApplicationComponent" name="RACF" id="539207bd-6231-42e4-8ebf-448016cc9e1d">
-        <documentation>1 Camada de Autenticação</documentation>
-      </element>
       <element xsi:type="archimate:ApplicationFunction" name="Maitain Balance" id="faa79ac4-7ed4-4b3d-8d10-098a3e9adfac">
         <documentation>Inclusão&#xD;
 Consulta&#xD;
@@ -233,9 +230,128 @@ A Base Analítia é utilizado pelo legado e Simplify </documentation>
       <element xsi:type="archimate:ApplicationComponent" name="Product Applications" id="9203a06d-ce1f-465e-9b0c-c9de6433176c"/>
       <element xsi:type="archimate:ApplicationInterface" name="Bridge" id="ab75fd30-c072-4fba-a174-d31f958b6766"/>
       <element xsi:type="archimate:ApplicationComponent" name="Product Menu" id="97cb6ac2-9ebc-4fe4-9871-531d7a9c186a"/>
+      <element xsi:type="archimate:ApplicationComponent" name="RACF" id="539207bd-6231-42e4-8ebf-448016cc9e1d">
+        <documentation>1 Camada de Autenticação</documentation>
+      </element>
+      <element xsi:type="archimate:ApplicationInterface" name="Digital Certificate" id="576beb59-90e8-4b0f-8661-1e58fdf1600a"/>
     </folder>
     <folder name="BRIDGE" id="b4f9ee24-5954-46d1-99fa-29f8d139b371">
-      <element xsi:type="archimate:ApplicationFunction" name="Conversion ASCII - EBCDIC" id="5bb7649a-455a-4344-8e02-5285a090c977"/>
+      <element xsi:type="archimate:ApplicationFunction" name="Conversion" id="5bb7649a-455a-4344-8e02-5285a090c977">
+        <documentation>Coversão de ASCII para EBCDIC&#xD;
+Conversão de EBCDIC para ASCII</documentation>
+      </element>
+      <element xsi:type="archimate:ApplicationFunction" name="SIGA" id="b450048c-7d32-4489-8f48-f57376b65426"/>
+    </folder>
+    <folder name="CONCENTRE" id="f918971f-7b46-4606-9c79-75155713a0af">
+      <folder name="SISCARTORIO" id="84487a0d-d987-4500-b18e-44ecd6463ccb">
+        <element xsi:type="archimate:ApplicationComponent" name="SISCARTORIO" id="27375a94-a35a-4c17-8e3a-0c706c248581"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Search Prot Debit" id="41f8a77f-85a4-4266-89c8-8d62f83169f7"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Directly Cancellation  Prot Debit" id="dcea8fde-ec56-405f-bd9e-3fb8e1ced22e"/>
+      </folder>
+      <folder name="SINCART - TELECART" id="caeb711f-f251-4818-b8ee-ea0e13330c67">
+        <element xsi:type="archimate:ApplicationComponent" name="SINCART - TELECART" id="d8108e80-ca13-4064-bb17-f4e5b5396533">
+          <property key="Programming Language" value="VB 6"/>
+        </element>
+        <element xsi:type="archimate:ApplicationFunction" name="Cancel Prot Debit" id="3867328f-49a6-4ed0-83bf-23cb1d14ccba"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Create Prot Debit" id="27ffa612-56e9-4617-8e64-bb12b2f03bc7"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Sent Prot Debit Certificate" id="2799cf25-d73e-4235-996a-7e5bc6a4541f"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Create and Send Prot Debits File (Creation / Cancellation)" id="2ff1e016-f916-4c8f-a4e5-ed5f7aef2ffd"/>
+      </folder>
+      <folder name="TELECART WEB" id="ebfe1f69-154c-47cb-af27-09b31509cab2">
+        <element xsi:type="archimate:ApplicationComponent" name="TELECART WEB" id="8fbc76f7-477a-4585-90d2-89aec71a0879"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Send Debit File (Creation / Cancellation)" id="916b6390-dfc9-4d03-ae70-44e3e5e91c0e"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Sent Prot Debit Certificate WEB" id="48b463dc-9ce8-49d2-99f9-9ad71fa77ed1"/>
+      </folder>
+      <folder name="SERASAJUD" id="28905140-082e-42f1-80a8-635405380e31">
+        <element xsi:type="archimate:ApplicationComponent" name="SERASAJUD" id="9ceb506d-efb0-4cf7-8e79-7903e20f7956">
+          <property key="Programming Language" value=".NET 3.5"/>
+        </element>
+        <element xsi:type="archimate:ApplicationFunction" name="Create Legal Debit" id="48d1be0e-724d-4aa7-8edc-cefcc21f95bd"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Manage Sent Legal Debits" id="87eca8da-e216-4f38-aa7b-90a043d7280b"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Search Legal Debit" id="515dedb1-0462-4182-8b2f-8e32ff521d4d"/>
+      </folder>
+      <folder name="SERASAJUD - RJ" id="8f1038fe-eccc-4e78-ada4-dd51c2209719">
+        <element xsi:type="archimate:ApplicationComponent" name="SERASAJUD - RJ" id="972b6706-4936-4f4a-b581-3f625947c1ef"/>
+      </folder>
+      <folder name="SISCONVEM" id="cb510f38-c0c3-461b-a8ab-9ee008151dee">
+        <element xsi:type="archimate:ApplicationComponent" name="SISCONVEM" id="dd793206-e8cd-4aff-81d2-b779889bdbde">
+          <property key="Programming Language" value="JAVA 6"/>
+        </element>
+        <element xsi:type="archimate:ApplicationFunction" name="Product Selection (PEFIN - REFIN - CONVEM)" id="c95be8b3-d698-48ce-a3ff-d8a2fbc7c992"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Search Person Details" id="0289d639-8bff-40f0-bd09-0c469fc60d7e"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Debit (PEFIN - REFIN - CONVEM)" id="4cf32d6e-342a-4a79-a02d-f7bdf9bede62"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Create Debit (PEFIN - REFIN - CONVEM)" id="20c3c697-724f-477b-bf4d-f6c29e9fd570"/>
+      </folder>
+      <folder name="SGO WEB" id="7c0c3bb8-ffaa-466c-a823-c2db0c1d1fe4">
+        <element xsi:type="archimate:ApplicationComponent" name="SGO WEB" id="b16bb748-c285-4573-8a01-8a8e0a3080a0">
+          <property key="Programming Language" value=".NET 3.5"/>
+        </element>
+        <element xsi:type="archimate:ApplicationFunction" name="Request Active Debits File" id="f923c6a9-48c0-4fe0-88d5-a8e147b5629b"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Reprint Communication Message" id="d3deb830-c0e3-4623-8db2-21b9447fd770"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Manage Contracts" id="497d1d62-4c8a-48a8-82e9-096228495f4c"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Manage Debtor Communication Parameters " id="03719e32-3a5c-463c-b83f-0a3200307e26"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Manage Sent Files" id="d9e9fa4a-05ce-43a4-bca4-411de5f1b135"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Create New Contracts" id="62503a88-faba-45fb-a896-5d42df6e8c4d"/>
+        <element xsi:type="archimate:ApplicationFunction" name="SGO Tool Configuration" id="1231d607-9ef3-4672-95f2-085f390e1a41"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Suspend Fraud Contract" id="b8dbcc8a-b44e-4807-8345-de423c9ab8ab"/>
+      </folder>
+      <folder name="DATABASE" id="cb8a30bf-a8ba-48b9-8fae-a6ab999befab">
+        <element xsi:type="archimate:DataObject" name="ACHEI" id="93e4868a-2e9d-4a9d-8cef-afbd15b60f75"/>
+        <element xsi:type="archimate:DataObject" name="AÇÕES" id="a2541b15-1f2c-4757-853e-8663b3505e27"/>
+        <element xsi:type="archimate:DataObject" name="CCF" id="232e83b3-0429-44be-9dfb-b80cb1253513"/>
+        <element xsi:type="archimate:DataObject" name="CONVEM" id="dd5fa3a6-94de-4279-b1d3-ce5502b27ee0"/>
+        <element xsi:type="archimate:DataObject" name="FACON" id="132c1e3f-0968-4d25-a92d-f42bb9aae8fc"/>
+        <element xsi:type="archimate:DataObject" name="MEGASCORE" id="baf0baba-39a0-436d-9aec-b3d4dcc2e244"/>
+        <element xsi:type="archimate:DataObject" name="PEFIN" id="a30ce34d-940f-4916-af47-13800c45cded"/>
+        <element xsi:type="archimate:DataObject" name="PIE" id="2bcf8b6b-bfde-4480-82ca-a6d47619e498"/>
+        <element xsi:type="archimate:DataObject" name="PROT" id="1e9cb3d2-4ee4-4472-9718-2c2716bb28a2"/>
+        <element xsi:type="archimate:DataObject" name="REFIN" id="10b0890a-a38c-49b5-bc78-71507f2ea6bd"/>
+        <element xsi:type="archimate:DataObject" name="CONVEM PRODUCT" id="3662760d-dcd2-4b15-961c-99cee2553085"/>
+      </folder>
+      <folder name="PORTAL CONCENTRE" id="d8347372-420c-44d4-8b5b-714a349ef336">
+        <element xsi:type="archimate:ApplicationComponent" name="PORTAL CONCENTRE" id="bfa63e7c-3384-4927-92ad-efcc7c62036d"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Certificate" id="0374b4a4-7e3c-40a9-86f4-6f9186e98bc5"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Actions" id="b38d9469-eeb8-4b9c-844b-c585d4c36e9d"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Annotations" id="e86e04c6-2597-4b34-bfd5-d50d273386a7"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Capture" id="94513f8f-07a6-4fb8-9cde-46c9581f6ef9"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Registration Office" id="d109ab54-f2ea-431e-b934-f170f03c8dc8"/>
+        <element xsi:type="archimate:ApplicationFunction" name="File Lot " id="998f8746-a27e-456c-8faa-efe02deaf8a5"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Protests" id="d4f15d2a-f87c-433c-aa25-35389beed041"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Registration Office Unit" id="1b6faf66-3586-4c6e-851b-3ae02a8eebc1"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Registration Offices" id="4d737c68-18ee-45b5-a601-3b758d862b7d"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Add Document" id="3cd1dbae-c231-4db4-800c-f95635b5ee3f"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Protests Annotation Classification" id="e1b6069a-cca6-4796-a4e3-2e297189ea80"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Cancel Protest" id="c7ee294e-8dea-4131-b38d-4eff2761287c"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Communication Message Update" id="68f89847-d686-4172-a1da-b27e1e01486e"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Certificate (Actions and Protests" id="9ace4597-66ff-4273-abc3-369d604dfd7e"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Co-debtor " id="7fb47a10-fcee-4d70-9980-fcd42fb6bab2"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Lot Key" id="56b55f62-649e-4ceb-926a-cd7828adfb8e"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Lot Key per Document" id="ce086082-ebf4-4da5-a0f0-90c439ac176c"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Protest in Captation Database" id="87d301c7-3821-4a84-8fd0-62e7327715f9"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Protests" id="09e1334b-06b0-4a74-8036-fda55e078e9d"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Create Certificate" id="29378168-900a-4333-8039-376703d7ec22"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Create Protest" id="3638dbe4-2ff8-4912-856d-364de0584a53"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Generate Lot Key" id="8e4eb790-a312-48ed-b518-e06045311511"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Reverse Protest Sequence" id="8288edbd-b791-40fd-9682-6be180732fd5"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Update Certificate" id="c0b02796-62b2-48fc-8206-25fc2e10bef0"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Update Protest in Captation Database" id="ecb27349-1431-451d-b2ac-1aceb67b1807"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Update Registration Office Data" id="35010afb-832a-4109-a541-bd63ed1e6c92"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Validate Certificate" id="54897d99-4fa2-44e5-b768-b282d834e061"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Actions Annotation Classification" id="71f1a2d5-a183-4212-b9fd-60ac4f22af60"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Cancel Action" id="586bc4c8-da3b-4fac-968c-6f2e6a79e612"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Action" id="d0dae40d-2c6e-440f-89b5-aa75bb6741ac"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult Action in Captation Database" id="f40e8a6a-006c-44f4-ab34-0ef05a54a7b6"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Create Action" id="43e19fba-2d8c-4759-bb17-b4d298e5510b"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Reverse Actions Sequence" id="9a328713-446e-49cf-b786-d7d3b90d3662"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Search Registration Office Unit" id="8850607b-8b60-4722-b9ee-eb0a867f1cd8"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Update Action in Captation Database" id="f9956bef-ad42-4c24-929b-02a88b17548c"/>
+        <element xsi:type="archimate:ApplicationFunction" name="Consult File Lot" id="bb0e4a0e-3d77-47a4-b6e4-53abcabddd30"/>
+      </folder>
+      <folder name="MAINFRAME" id="64ff1d4c-bcc3-4166-9e33-5508e049863e">
+        <element xsi:type="archimate:ApplicationComponent" name="CADUS" id="9308fbfe-9471-4f65-a20d-7ca892b21ba9"/>
+        <element xsi:type="archimate:ApplicationComponent" name="RK" id="8d1debd6-491a-45c8-b1d7-a1769c7c5733"/>
+        <element xsi:type="archimate:ApplicationComponent" name="BATON" id="28d31331-aa88-49a2-9b34-62e9a4dbc762"/>
+      </folder>
     </folder>
   </folder>
   <folder name="Technology &amp; Physical" id="8f585163-0667-457e-a2a4-d3108a04471f" type="technology">
@@ -410,6 +526,12 @@ A Base Analítia é utilizado pelo legado e Simplify </documentation>
     <element xsi:type="archimate:RealizationRelationship" id="de1e1229-2aa6-4bb1-81fd-c5309ebdb133" source="97cb6ac2-9ebc-4fe4-9871-531d7a9c186a" target="cdd149a2-cb52-47f2-b6de-71670b5d6182"/>
     <element xsi:type="archimate:ServingRelationship" id="1e878d65-3f46-4368-a152-9e99a7a3f2d1" source="cdd149a2-cb52-47f2-b6de-71670b5d6182" target="52bd7cc3-c2d6-4a5d-b974-538ebe4cd1ed"/>
     <element xsi:type="archimate:ServingRelationship" id="5d2756af-c813-4ea9-b8e9-211134eb768f" source="cdd149a2-cb52-47f2-b6de-71670b5d6182" target="64afad7f-58db-4850-b82e-b52b484db777"/>
+    <element xsi:type="archimate:ServingRelationship" id="731f575e-48b2-49bc-b8d2-afa43719bbba" source="fbe6a76b-16b2-412f-932b-c58ddec666bf" target="576beb59-90e8-4b0f-8661-1e58fdf1600a"/>
+    <element xsi:type="archimate:ServingRelationship" id="4c5038dc-4ed9-4bdf-85b3-d4f142e5f9ce" source="576beb59-90e8-4b0f-8661-1e58fdf1600a" target="ab75fd30-c072-4fba-a174-d31f958b6766"/>
+    <element xsi:type="archimate:FlowRelationship" id="160f4313-43f5-4c05-b52c-0b51ef3a17f9" source="ab75fd30-c072-4fba-a174-d31f958b6766" target="5bb7649a-455a-4344-8e02-5285a090c977"/>
+    <element xsi:type="archimate:FlowRelationship" id="e8a170d9-31dc-4231-b3b8-76334756f0a4" source="ab75fd30-c072-4fba-a174-d31f958b6766" target="b450048c-7d32-4489-8f48-f57376b65426"/>
+    <element xsi:type="archimate:RealizationRelationship" id="dc5908b2-0486-40a8-9bd5-09524074df06" source="68ae9ebd-826d-4a0e-b225-f0d19e6ca614" target="fbe6a76b-16b2-412f-932b-c58ddec666bf"/>
+    <element xsi:type="archimate:RealizationRelationship" id="c25c4daa-f5a2-4951-b2e4-a04779b60dcf" source="9203a06d-ce1f-465e-9b0c-c9de6433176c" target="344e359f-d562-4585-8662-415939048a71"/>
   </folder>
   <folder name="Views" id="d1f0a9c9-271f-45a3-8378-7c906bc91ebe" type="diagrams">
     <folder name="MANAGER" id="bd40d459-1dbc-425b-8093-5dc95cc1ba21">
@@ -968,15 +1090,22 @@ A Base Analítia é utilizado pelo legado e Simplify </documentation>
           <bounds x="24" y="12" width="1429" height="85"/>
           <child xsi:type="archimate:DiagramObject" id="83d1f7dc-6bdb-48e1-88e2-309b45dc4161" archimateElement="68ae9ebd-826d-4a0e-b225-f0d19e6ca614">
             <bounds x="48" y="24" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="8bd52bdc-ae37-4f1e-b422-8242ab84d865" source="83d1f7dc-6bdb-48e1-88e2-309b45dc4161" target="29c63598-13d2-4bd9-8a8c-44dc2a2cd5cc" archimateRelationship="dc5908b2-0486-40a8-9bd5-09524074df06"/>
           </child>
         </child>
         <child xsi:type="archimate:Group" id="5ea9f894-654a-471c-a2d3-8a07c74bf2b0" name="BRIDGE - FUNCTIONS" textAlignment="1">
           <bounds x="24" y="288" width="1429" height="265"/>
-          <child xsi:type="archimate:DiagramObject" id="9a1e531e-ab32-46e9-a82c-7a5529e56016" archimateElement="ab75fd30-c072-4fba-a174-d31f958b6766">
+          <child xsi:type="archimate:DiagramObject" id="9a1e531e-ab32-46e9-a82c-7a5529e56016" targetConnections="a135e87f-599f-4c43-abe3-8a190e1a39bd" archimateElement="ab75fd30-c072-4fba-a174-d31f958b6766">
             <bounds x="660" y="24" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="bef4e601-68cc-40cb-b58a-bb295f9769ac" source="9a1e531e-ab32-46e9-a82c-7a5529e56016" target="365c29b2-05ab-4394-8d50-e85d3a5227c0" archimateRelationship="595d5fab-397f-4244-bbf4-9007c9c0e27b"/>
+            <sourceConnection xsi:type="archimate:Connection" id="e21b4d12-06de-4569-8d30-283548f905e4" source="9a1e531e-ab32-46e9-a82c-7a5529e56016" target="c629490e-9897-46d6-ad38-b010f06c0a08" archimateRelationship="160f4313-43f5-4c05-b52c-0b51ef3a17f9"/>
+            <sourceConnection xsi:type="archimate:Connection" id="66f80f17-1373-471b-93af-31ea4c2ff05f" source="9a1e531e-ab32-46e9-a82c-7a5529e56016" target="10bf981c-468f-45df-912b-ef6fc2be2c77" archimateRelationship="e8a170d9-31dc-4231-b3b8-76334756f0a4"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="c629490e-9897-46d6-ad38-b010f06c0a08" archimateElement="5bb7649a-455a-4344-8e02-5285a090c977">
-            <bounds x="248" y="90" width="120" height="55"/>
+          <child xsi:type="archimate:DiagramObject" id="c629490e-9897-46d6-ad38-b010f06c0a08" targetConnections="e21b4d12-06de-4569-8d30-283548f905e4" archimateElement="5bb7649a-455a-4344-8e02-5285a090c977">
+            <bounds x="408" y="96" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="10bf981c-468f-45df-912b-ef6fc2be2c77" targetConnections="66f80f17-1373-471b-93af-31ea4c2ff05f" archimateElement="b450048c-7d32-4489-8f48-f57376b65426">
+            <bounds x="924" y="96" width="120" height="55"/>
           </child>
         </child>
         <child xsi:type="archimate:Group" id="1c6c62b4-349f-457a-b8e0-633158cca55f" name="BRIDGE - DATA" textAlignment="1">
@@ -984,6 +1113,24 @@ A Base Analítia é utilizado pelo legado e Simplify </documentation>
         </child>
         <child xsi:type="archimate:Group" id="6fc3e1c0-d709-41fb-986a-e682c8df74e3" name="BRIDGE - INTERACTION" textAlignment="1">
           <bounds x="24" y="108" width="1429" height="169"/>
+          <child xsi:type="archimate:DiagramObject" id="365c29b2-05ab-4394-8d50-e85d3a5227c0" targetConnections="bef4e601-68cc-40cb-b58a-bb295f9769ac" archimateElement="539207bd-6231-42e4-8ebf-448016cc9e1d">
+            <bounds x="660" y="72" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="29c63598-13d2-4bd9-8a8c-44dc2a2cd5cc" targetConnections="8bd52bdc-ae37-4f1e-b422-8242ab84d865" archimateElement="fbe6a76b-16b2-412f-932b-c58ddec666bf">
+            <bounds x="48" y="72" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="1d3f25a0-89b6-420c-8a57-c18b1bb76b6f" source="29c63598-13d2-4bd9-8a8c-44dc2a2cd5cc" target="ca89668f-8e03-4b51-89f4-e3c6e2d5efda" archimateRelationship="731f575e-48b2-49bc-b8d2-afa43719bbba"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="ca89668f-8e03-4b51-89f4-e3c6e2d5efda" targetConnections="1d3f25a0-89b6-420c-8a57-c18b1bb76b6f" archimateElement="576beb59-90e8-4b0f-8661-1e58fdf1600a">
+            <bounds x="432" y="72" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="a135e87f-599f-4c43-abe3-8a190e1a39bd" source="ca89668f-8e03-4b51-89f4-e3c6e2d5efda" target="9a1e531e-ab32-46e9-a82c-7a5529e56016" archimateRelationship="4c5038dc-4ed9-4bdf-85b3-d4f142e5f9ce"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="a6828b3a-9cf7-4c06-b4a3-862b646a4ef4" archimateElement="9203a06d-ce1f-465e-9b0c-c9de6433176c">
+            <bounds x="852" y="72" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="d41505d5-7079-4c95-9fbd-89316500f63f" source="a6828b3a-9cf7-4c06-b4a3-862b646a4ef4" target="c1b9cee2-efc2-4a94-8097-5123675620ef" archimateRelationship="c25c4daa-f5a2-4951-b2e4-a04779b60dcf"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="c1b9cee2-efc2-4a94-8097-5123675620ef" targetConnections="d41505d5-7079-4c95-9fbd-89316500f63f" archimateElement="344e359f-d562-4585-8662-415939048a71">
+            <bounds x="1068" y="72" width="120" height="55"/>
+          </child>
         </child>
       </element>
     </folder>
