@@ -1898,6 +1898,18 @@
         y="118"
         width="2640"
         height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ffe43773-4601-43eb-8986-1e84bb696064">
+      <bounds
+          x="108"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Artifact"
+          href="Artifact_abb840dc-8e8f-49c4-a091-66e8d245c212.xml#abb840dc-8e8f-49c4-a091-66e8d245c212"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
