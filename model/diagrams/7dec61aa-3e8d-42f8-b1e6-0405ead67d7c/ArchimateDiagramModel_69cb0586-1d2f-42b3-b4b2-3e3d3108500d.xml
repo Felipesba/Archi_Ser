@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AA - Gerencie PF"
+    id="69cb0586-1d2f-42b3-b4b2-3e3d3108500d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e78d08da-4cf1-4e26-8133-468be0dae459">
+    <bounds
+        x="120"
+        y="72"
+        width="177"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_0e75c7e7-8c94-4ca7-85c9-92b9b0e36584.xml#0e75c7e7-8c94-4ca7-85c9-92b9b0e36584"/>
+  </children>
+</archimate:ArchimateDiagramModel>
