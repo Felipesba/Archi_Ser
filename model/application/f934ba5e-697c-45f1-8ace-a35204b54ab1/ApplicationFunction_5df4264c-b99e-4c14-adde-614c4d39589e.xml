@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Filter"
+    id="5df4264c-b99e-4c14-adde-614c4d39589e"
+    documentation="É um filtro (java/.net) que faz a validação do param através de uma procedure no sql server"/>

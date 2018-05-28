@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check Distribuitor and Blacklist "
+    id="c92f391e-a722-40d0-a578-bce97998ed20"
+    documentation="Verificar se o indireto (cliente distribuidor) possui alguma restrição de acesso"/>

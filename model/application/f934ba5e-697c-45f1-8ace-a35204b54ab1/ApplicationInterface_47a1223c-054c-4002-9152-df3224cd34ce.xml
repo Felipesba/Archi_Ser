@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redirect"
+    id="47a1223c-054c-4002-9152-df3224cd34ce"
+    documentation="Será utilizado o Param gerado no User Service para redirecionar para Screen - Products Menu"/>

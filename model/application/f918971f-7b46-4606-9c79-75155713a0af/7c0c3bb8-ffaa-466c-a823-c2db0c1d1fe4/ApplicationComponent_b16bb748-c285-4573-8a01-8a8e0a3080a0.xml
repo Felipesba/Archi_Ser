@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SGO WEB"
+    id="b16bb748-c285-4573-8a01-8a8e0a3080a0">
+  <properties
+      key="Programming Language"
+      value=".NET 3.5"/>
+</archimate:ApplicationComponent>

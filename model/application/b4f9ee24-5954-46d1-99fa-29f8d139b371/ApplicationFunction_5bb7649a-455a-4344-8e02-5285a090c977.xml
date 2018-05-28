@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conversion"
+    id="5bb7649a-455a-4344-8e02-5285a090c977"
+    documentation="Coversão de ASCII para EBCDIC&#xD;&#xA;Conversão de EBCDIC para ASCII"/>

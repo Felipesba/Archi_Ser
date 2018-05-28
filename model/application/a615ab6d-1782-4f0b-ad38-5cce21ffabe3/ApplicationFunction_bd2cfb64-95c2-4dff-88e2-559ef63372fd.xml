@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Indirect Log"
+    id="bd2cfb64-95c2-4dff-88e2-559ef63372fd"
+    documentation="Todas as consultas feitas pelos indiretos serão armazenados na base GRBASIND"/>

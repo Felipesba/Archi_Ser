@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Service"
+    id="3a0aba69-e98d-46c3-928b-259de2436f60"
+    documentation="Será feita a chamada ao componente Logon do Gerenciador"/>

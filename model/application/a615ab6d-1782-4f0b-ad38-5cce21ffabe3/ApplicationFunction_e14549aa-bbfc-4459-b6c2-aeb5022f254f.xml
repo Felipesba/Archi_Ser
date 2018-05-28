@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintain Transaction"
+    id="e14549aa-bbfc-4459-b6c2-aeb5022f254f"
+    documentation="Cadastrar Transação&#xD;&#xA;Consultar Transação&#xD;&#xA;Consultar Histórico&#xD;&#xA;Excluir Transação"/>

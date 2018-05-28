@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SINCART - TELECART"
+    id="d8108e80-ca13-4064-bb17-f4e5b5396533">
+  <properties
+      key="Programming Language"
+      value="VB 6"/>
+</archimate:ApplicationComponent>
