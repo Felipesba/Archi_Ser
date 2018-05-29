@@ -1973,10 +1973,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="edc15602-9571-494f-934e-e9f648d489f0">
       <bounds
-          x="804"
-          y="30"
-          width="208"
-          height="91"/>
+          x="528"
+          y="32"
+          width="180"
+          height="75"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_8d1debd6-491a-45c8-b1d7-a1769c7c5733.xml#8d1debd6-491a-45c8-b1d7-a1769c7c5733"/>

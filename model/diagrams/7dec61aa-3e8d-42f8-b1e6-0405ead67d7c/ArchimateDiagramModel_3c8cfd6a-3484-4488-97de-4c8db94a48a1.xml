@@ -85,27 +85,27 @@
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="8f2785b7-293e-4de6-a76f-e2b70e0b253c">
+        id="172728ba-e274-449a-8f05-9b96a8e9751e">
       <bounds
           x="24"
-          y="36"
-          width="600"
-          height="119"/>
+          y="48"
+          width="470"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_093a3bae-0a9c-4af0-837f-ec68dbf5bfce.xml#093a3bae-0a9c-4af0-837f-ec68dbf5bfce"/>
+          href="SystemSoftware_ef525e05-be1c-449b-904a-94419c8ba155.xml#ef525e05-be1c-449b-904a-94419c8ba155"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="97de4b5c-36d2-4efa-a6b8-89cebc9fc73b">
+        id="1a9c4e91-c9db-4a12-a544-dac722e7402f">
       <bounds
-          x="684"
-          y="36"
-          width="300"
-          height="119"/>
+          x="516"
+          y="48"
+          width="253"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_caf59ac4-2864-4b9a-9daf-c4b7fa9deb7f.xml#caf59ac4-2864-4b9a-9daf-c4b7fa9deb7f"/>
+          href="SystemSoftware_0920163e-0b94-4eb6-a404-11f8684e0605.xml#0920163e-0b94-4eb6-a404-11f8684e0605"/>
     </children>
   </children>
   <children
