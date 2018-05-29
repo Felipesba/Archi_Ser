@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GERENCIE PF"
+    id="98063965-8063-40cc-9966-3eaf652d6424">
+  <properties
+      key="Programming Language"
+      value="JAVA"/>
+</archimate:ApplicationComponent>
