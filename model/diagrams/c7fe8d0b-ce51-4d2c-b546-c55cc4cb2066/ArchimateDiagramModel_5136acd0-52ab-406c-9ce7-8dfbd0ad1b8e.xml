@@ -1720,7 +1720,7 @@
                 href="SpecializationRelationship_65b3124b-c296-4307-adf2-9851c7dedd23.xml#65b3124b-c296-4307-adf2-9851c7dedd23"/>
           </sourceConnections>
           <bounds
-              x="144"
+              x="276"
               y="36"
               width="120"
               height="55"/>
@@ -1741,7 +1741,7 @@
                 href="SpecializationRelationship_776897b4-da07-49eb-b790-bb6c830bef07.xml#776897b4-da07-49eb-b790-bb6c830bef07"/>
           </sourceConnections>
           <bounds
-              x="288"
+              x="144"
               y="36"
               width="120"
               height="55"/>
@@ -1973,8 +1973,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="edc15602-9571-494f-934e-e9f648d489f0">
       <bounds
-          x="504"
-          y="32"
+          x="804"
+          y="30"
           width="208"
           height="91"/>
       <archimateElement
@@ -2107,7 +2107,7 @@
         id="5211a9ba-404e-4dbd-af77-33ec3e35b20b"
         targetConnections="2cb02e16-b163-4add-b9c3-9ae6014819a9">
       <bounds
-          x="180"
+          x="492"
           y="48"
           width="120"
           height="55"/>
@@ -2119,7 +2119,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="05573641-5caa-4154-8c0c-63af52c4e9f5">
       <bounds
-          x="360"
+          x="838"
           y="48"
           width="120"
           height="55"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TELECART WEB"
-    id="8fbc76f7-477a-4585-90d2-89aec71a0879"/>
+    id="8fbc76f7-477a-4585-90d2-89aec71a0879"
+    documentation="Sistema Web para que os cartórios anexem os protestos no arquivo layout 600 para envio à Serasa"/>

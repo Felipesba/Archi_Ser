@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SINCART - TELECART"
-    id="d8108e80-ca13-4064-bb17-f4e5b5396533">
+    id="d8108e80-ca13-4064-bb17-f4e5b5396533"
+    documentation="Sistema instalado nos cartórios para inserção manual de protestos. De tempos em tempos os responsáveis dos cartórios através do sistema agrega os protestos no Layout 600 e envia para a Serasa.">
   <properties
       key="Programming Language"
       value="VB 6"/>

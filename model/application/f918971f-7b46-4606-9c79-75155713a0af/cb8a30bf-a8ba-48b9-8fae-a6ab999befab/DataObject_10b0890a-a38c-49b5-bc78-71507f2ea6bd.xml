@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REFIN"
-    id="10b0890a-a38c-49b5-bc78-71507f2ea6bd"/>
+    id="10b0890a-a38c-49b5-bc78-71507f2ea6bd"
+    documentation="Base de Restrições Financeiras por Instituições Financeiras"/>

@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SERASAJUD"
-    id="9ceb506d-efb0-4cf7-8e79-7903e20f7956">
+    id="9ceb506d-efb0-4cf7-8e79-7903e20f7956"
+    documentation="Sistema Web para envio de Ações">
   <properties
       key="Programming Language"
       value=".NET 3.5"/>
