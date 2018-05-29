@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTPS Service"
+    id="a36c1bed-a9d3-4bca-a7e9-8e9c1cbb7a83"
+    documentation="Cliete conecta a Seresa (geralmente PME)"/>
