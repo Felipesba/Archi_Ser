@@ -86,8 +86,8 @@
       name="CONCENTRE - OPEN PLATFORM"
       textAlignment="1">
     <bounds
-        x="-38"
-        y="286"
+        x="-60"
+        y="288"
         width="2100"
         height="747"/>
     <children
@@ -197,8 +197,8 @@
             href="AccessRelationship_933d639a-0741-44af-963a-186b6f6047d5.xml#933d639a-0741-44af-963a-186b6f6047d5"/>
       </sourceConnections>
       <bounds
-          x="624"
-          y="48"
+          x="996"
+          y="47"
           width="204"
           height="289"/>
       <children
@@ -501,7 +501,7 @@
             href="AccessRelationship_6b979868-d9a1-4c8e-8ebe-eb2124b1c75b.xml#6b979868-d9a1-4c8e-8ebe-eb2124b1c75b"/>
       </sourceConnections>
       <bounds
-          x="840"
+          x="1224"
           y="48"
           width="348"
           height="288"/>
@@ -1478,10 +1478,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="65b43d24-705c-4711-bf58-dfb8168745ed">
       <bounds
-          x="1476"
-          y="48"
-          width="180"
-          height="156"/>
+          x="840"
+          y="47"
+          width="132"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_972b6706-4936-4f4a-b581-3f625947c1ef.xml#972b6706-4936-4f4a-b581-3f625947c1ef"/>
@@ -1527,8 +1527,8 @@
             href="RealizationRelationship_0bc961a4-f5bb-442c-b42d-bba44afb5755.xml#0bc961a4-f5bb-442c-b42d-bba44afb5755"/>
       </sourceConnections>
       <bounds
-          x="1236"
-          y="48"
+          x="636"
+          y="47"
           width="192"
           height="241"/>
       <children
@@ -1578,8 +1578,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e06fa4df-65de-45ca-a265-9c50c3bd8465">
       <bounds
-          x="1488"
-          y="240"
+          x="1584"
+          y="47"
           width="168"
           height="121"/>
       <archimateElement
