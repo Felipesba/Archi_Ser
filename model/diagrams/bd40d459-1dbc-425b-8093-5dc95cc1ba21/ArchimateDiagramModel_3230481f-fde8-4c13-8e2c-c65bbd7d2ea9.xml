@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AA - Manager"
+    name="AA - Gerenciador"
     id="3230481f-fde8-4c13-8e2c-c65bbd7d2ea9">
   <children
       xsi:type="archimate:DiagramModelGroup"
