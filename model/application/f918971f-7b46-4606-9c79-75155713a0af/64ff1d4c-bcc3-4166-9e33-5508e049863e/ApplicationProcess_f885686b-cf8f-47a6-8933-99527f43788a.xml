@@ -1,0 +1,12 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RP09"
+    id="f885686b-cf8f-47a6-8933-99527f43788a"
+    documentation="Gerenciador de Protestos">
+  <properties
+      key="File"
+      value="RPX10E e RPX10S"/>
+  <properties
+      key="Programming Language"
+      value="COBOL"/>
+</archimate:ApplicationProcess>

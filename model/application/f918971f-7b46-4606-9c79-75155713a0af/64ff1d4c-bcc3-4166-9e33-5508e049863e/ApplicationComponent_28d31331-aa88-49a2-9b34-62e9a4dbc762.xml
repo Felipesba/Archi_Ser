@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BATON"
-    id="28d31331-aa88-49a2-9b34-62e9a4dbc762"/>
+    name="UCBATONG"
+    id="28d31331-aa88-49a2-9b34-62e9a4dbc762"
+    documentation="Gerenciador de todos os Batch Onlines"/>
