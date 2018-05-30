@@ -67,8 +67,17 @@
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_b09b52aa-5e41-43e4-990e-2b4801572096.xml#b09b52aa-5e41-43e4-990e-2b4801572096"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="aaa3e2b6-a9f1-4265-8b4b-c848b700b67d"
+          source="0d119ffe-7a3b-4b38-b232-29c64c4e80ac"
+          target="10b3cad7-a935-43da-9be5-3f03d99dd2cf">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_66e5c242-9ea9-4a0e-9568-97ca9cedf892.xml#66e5c242-9ea9-4a0e-9568-97ca9cedf892"/>
+      </sourceConnections>
       <bounds
-          x="24"
+          x="240"
           y="36"
           width="265"
           height="193"/>
@@ -81,13 +90,48 @@
         id="9d4261e4-cfbf-4671-813f-bb8a1df4c2ad"
         targetConnections="3a40488b-48a9-421e-9797-7d4cfca6e3fb">
       <bounds
-          x="480"
-          y="45"
+          x="576"
+          y="60"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
           href="ApplicationProcess_623d7c36-be36-4337-bbb8-e29d16433d05.xml#623d7c36-be36-4337-bbb8-e29d16433d05"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="10b3cad7-a935-43da-9be5-3f03d99dd2cf"
+        targetConnections="aaa3e2b6-a9f1-4265-8b4b-c848b700b67d">
+      <bounds
+          x="576"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_344e359f-d562-4585-8662-415939048a71.xml#344e359f-d562-4585-8662-415939048a71"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="c0bab51b-d9e3-4501-b99f-bb976e65b6ff"
+        targetConnections="6bb05ee6-b317-4abe-81cb-d08bfa716a38">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="4715baf0-2fa5-4450-a8ee-5fc3f4738cb9"
+          source="c0bab51b-d9e3-4501-b99f-bb976e65b6ff"
+          target="0d119ffe-7a3b-4b38-b232-29c64c4e80ac">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_2ac9aefa-f5ca-4685-897d-c77e003bc395.xml#2ac9aefa-f5ca-4685-897d-c77e003bc395"/>
+      </sourceConnections>
+      <bounds
+          x="48"
+          y="90"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_97cb6ac2-9ebc-4fe4-9871-531d7a9c186a.xml#97cb6ac2-9ebc-4fe4-9871-531d7a9c186a"/>
     </children>
   </children>
   <children
@@ -344,28 +388,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_a5934b6c-b41e-41bd-8f03-806b9f594630.xml#a5934b6c-b41e-41bd-8f03-806b9f594630"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="c0bab51b-d9e3-4501-b99f-bb976e65b6ff"
-        targetConnections="6bb05ee6-b317-4abe-81cb-d08bfa716a38">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="4715baf0-2fa5-4450-a8ee-5fc3f4738cb9"
-          source="c0bab51b-d9e3-4501-b99f-bb976e65b6ff"
-          target="0d119ffe-7a3b-4b38-b232-29c64c4e80ac">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_2ac9aefa-f5ca-4685-897d-c77e003bc395.xml#2ac9aefa-f5ca-4685-897d-c77e003bc395"/>
-      </sourceConnections>
-      <bounds
-          x="48"
-          y="48"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_97cb6ac2-9ebc-4fe4-9871-531d7a9c186a.xml#97cb6ac2-9ebc-4fe4-9871-531d7a9c186a"/>
     </children>
   </children>
   <children
