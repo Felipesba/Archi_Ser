@@ -763,7 +763,7 @@
       <bounds
           x="828"
           y="60"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
