@@ -763,10 +763,22 @@
         id="5284e4e4-9f28-48d6-b65e-c56e525b3e0b"
         targetConnections="1e24d0fc-9be9-4b72-a43a-045fe62486f5">
       <bounds
-          x="24"
-          y="108"
-          width="120"
-          height="55"/>
+          x="11"
+          y="92"
+          width="145"
+          height="70"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="76628b48-3890-445c-ad07-b07146a903b5">
+        <bounds
+            x="24"
+            y="24"
+            width="109"
+            height="37"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_3230481f-fde8-4c13-8e2c-c65bbd7d2ea9.xml#3230481f-fde8-4c13-8e2c-c65bbd7d2ea9"/>
+      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_344e359f-d562-4585-8662-415939048a71.xml#344e359f-d562-4585-8662-415939048a71"/>
