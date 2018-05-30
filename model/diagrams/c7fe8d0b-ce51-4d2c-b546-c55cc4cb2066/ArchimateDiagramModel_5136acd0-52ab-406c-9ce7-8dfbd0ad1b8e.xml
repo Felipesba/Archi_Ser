@@ -11,7 +11,7 @@
     <bounds
         x="-60"
         y="24"
-        width="2616"
+        width="2208"
         height="85"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -79,7 +79,7 @@
     <bounds
         x="-60"
         y="288"
-        width="2616"
+        width="2208"
         height="747"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1844,7 +1844,7 @@
     <bounds
         x="-60"
         y="1464"
-        width="2616"
+        width="2208"
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -2140,9 +2140,9 @@
       name="CONCENTRE - INTERACTION"
       textAlignment="1">
     <bounds
-        x="-120"
+        x="-60"
         y="120"
-        width="2676"
+        width="2208"
         height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -2207,7 +2207,7 @@
     <bounds
         x="-60"
         y="1200"
-        width="2616"
+        width="2208"
         height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -2634,8 +2634,8 @@
             href="AccessRelationship_6e57ed7c-b238-4a62-93da-010677a486d3.xml#6e57ed7c-b238-4a62-93da-010677a486d3"/>
       </sourceConnections>
       <bounds
-          x="2472"
-          y="165"
+          x="1900"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -2869,7 +2869,7 @@
     <bounds
         x="-60"
         y="1044"
-        width="2616"
+        width="2208"
         height="140"/>
   </children>
 </archimate:ArchimateDiagramModel>
