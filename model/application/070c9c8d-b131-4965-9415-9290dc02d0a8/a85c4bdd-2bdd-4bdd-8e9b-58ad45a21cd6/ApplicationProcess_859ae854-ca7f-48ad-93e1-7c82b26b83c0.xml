@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strings e Programas Batch MRDXXXX"
     id="859ae854-ca7f-48ad-93e1-7c82b26b83c0"
-    documentation="MRD0004/0005/0006/0007  - Montar Base de Documentos e Cocorrências&#xD;&#xA;MRD0010/0028/0029/0030/0040 - Novos CNPJs - Montar Arquivo Layout Esteira - Consolidar Avisos - Atualizar Ocorrências"/>
+    documentation="Gerenciador dos MRDXXXX&#xD;&#xA;&#xD;&#xA;MRD0004/0005/0006/0007  - Montar Base de Documentos e Cocorrências&#xD;&#xA;MRD0010 - Novos CNPJs - Movimento Para Cálculo&#xD;&#xA;MRD0019 - Cálculo de Risco&#xD;&#xA;MRD0027/0028/0029 - Montar Arquivo Layout e bate base Esteira &#xD;&#xA;MRD0030 - Gera Movimento Atualização (Consolidar Avisos)&#xD;&#xA;MRD0040 - Atualizar Ocorrências"/>
