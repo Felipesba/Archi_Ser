@@ -1344,7 +1344,7 @@
             href="TriggeringRelationship_e3aaa210-7f1c-4ce3-abe0-bc4c1d3de490.xml#e3aaa210-7f1c-4ce3-abe0-bc4c1d3de490"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="252"
           y="48"
           width="120"
           height="55"/>
@@ -1365,7 +1365,7 @@
             href="TriggeringRelationship_eea33924-a180-45f5-a6be-ec1392be3fd6.xml#eea33924-a180-45f5-a6be-ec1392be3fd6"/>
       </sourceConnections>
       <bounds
-          x="192"
+          x="396"
           y="48"
           width="120"
           height="55"/>

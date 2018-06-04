@@ -346,7 +346,7 @@
         id="10b3cad7-a935-43da-9be5-3f03d99dd2cf"
         targetConnections="aaa3e2b6-a9f1-4265-8b4b-c848b700b67d">
       <bounds
-          x="924"
+          x="912"
           y="120"
           width="169"
           height="73"/>
@@ -1144,7 +1144,7 @@
             href="TriggeringRelationship_9561bd1b-3d1f-42fd-a3a3-5dcf2ec4c1b9.xml#9561bd1b-3d1f-42fd-a3a3-5dcf2ec4c1b9"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="180"
           y="48"
           width="120"
           height="55"/>
@@ -1165,7 +1165,7 @@
             href="TriggeringRelationship_649557f7-85aa-475a-ad84-0a551f856858.xml#649557f7-85aa-475a-ad84-0a551f856858"/>
       </sourceConnections>
       <bounds
-          x="168"
+          x="324"
           y="48"
           width="120"
           height="55"/>
