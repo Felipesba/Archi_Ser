@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SERASAJUD"
     id="9ceb506d-efb0-4cf7-8e79-7903e20f7956"
-    documentation="Sistema Web para envio de Ações">
+    documentation="Sistema WEB consulta de ações tribunais de justiça">
   <properties
       key="Programming Language"
       value=".NET 3.5"/>

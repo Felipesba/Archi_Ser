@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FACON"
-    id="ead21937-ab85-45ec-819c-117822be4cb2"/>
+    id="ead21937-ab85-45ec-819c-117822be4cb2"
+    documentation="Sistema Cliente Servidor para gestão de Falências e Concordatas"/>
