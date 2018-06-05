@@ -2285,8 +2285,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ffe43773-4601-43eb-8986-1e84bb696064">
       <bounds
-          x="120"
-          y="60"
+          x="792"
+          y="24"
           width="120"
           height="55"/>
       <archimateElement
@@ -2306,8 +2306,8 @@
             href="ServingRelationship_346c99af-d690-468e-ba33-169a7b1d526d.xml#346c99af-d690-468e-ba33-169a7b1d526d"/>
       </sourceConnections>
       <bounds
-          x="756"
-          y="36"
+          x="672"
+          y="24"
           width="120"
           height="55"/>
       <archimateElement
