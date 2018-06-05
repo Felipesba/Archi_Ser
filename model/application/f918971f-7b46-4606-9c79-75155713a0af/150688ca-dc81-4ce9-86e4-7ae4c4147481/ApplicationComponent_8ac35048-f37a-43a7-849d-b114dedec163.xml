@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OFÍCIOS"
+    id="8ac35048-f37a-43a7-849d-b114dedec163"
+    documentation="Aplicação WEB para receber ofícios de ordens judiciais relativas à anotações">
+  <properties
+      key="Programming Language"
+      value="JAVA"/>
+</archimate:ApplicationComponent>
