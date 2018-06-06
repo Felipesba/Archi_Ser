@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GRCBONUS"
-    id="f6bfe867-ffb1-4c67-a873-d1c3fe8bbcf3"/>
+    id="f6bfe867-ffb1-4c67-a873-d1c3fe8bbcf3"
+    documentation="Base utilizada para o processo de bônus (diário, mensal, etc)"/>

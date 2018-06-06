@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GC5S"
+    id="ab7a4bcd-9ced-467f-9795-b39e5b1e0e2f"
+    documentation="String chamada por produtos com bases na Plataforma Aberta (PA) chamando a Seragera internamente.&#xD;&#xA;&#xD;&#xA;String -> Contém logon / transação / cobravél ou não&#xD;&#xA;&#xD;&#xA;Seragera retorna uma string com o resultado da contabilização"/>
