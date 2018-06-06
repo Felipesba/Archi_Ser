@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GC5T"
+    id="cfcf991b-246b-45c4-84cd-1d496c4e2fc8"
+    documentation="String chamada por produtos com bases na Plataforma Aberta (PA) chamando a Serasiga internamente.&#xD;&#xA;&#xD;&#xA;String -> Contém logon / transação&#xD;&#xA;&#xD;&#xA;Serasiga retorna uma string com o status do logon / transação"/>

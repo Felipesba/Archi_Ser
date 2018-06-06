@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GRGERAS"
     id="7690975d-6c22-4e63-a1d4-a38c85017c13"
-    documentation="Base responsável pelas transações GR99 (batch online)"/>
+    documentation="Responsável pelo armazenamento temporário do log das consultas vindas dos clientes"/>

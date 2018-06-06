@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GRTBTRAN"
-    id="bdf7b1f8-6855-47ef-a1b8-2dd8747acfdf"/>
+    id="bdf7b1f8-6855-47ef-a1b8-2dd8747acfdf"
+    documentation="Base que contém as informações de cada transação."/>
