@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servlet (Check FraudNet / Generate Param)"
+    id="69d05722-e949-4cc9-a924-0a4fb7781810"
+    documentation="O das duas funções dentro do serviço de user service é copiado e colocado no servlet"/>
