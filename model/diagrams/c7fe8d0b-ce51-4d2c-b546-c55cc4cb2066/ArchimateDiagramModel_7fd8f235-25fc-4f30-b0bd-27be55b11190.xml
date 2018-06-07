@@ -450,40 +450,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="46ac2288-d4b1-4627-9b4a-c23545854d42">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="cbf861a0-f94e-4c1a-a809-f1fb7a6aac7b"
-          source="46ac2288-d4b1-4627-9b4a-c23545854d42"
-          target="1873e8f6-f66d-4269-87be-53dc1f4a0709">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_f5042589-a64e-4974-931c-c77dba26f1b2.xml#f5042589-a64e-4974-931c-c77dba26f1b2"/>
-      </sourceConnections>
-      <bounds
-          x="3636"
-          y="1752"
-          width="241"
-          height="119"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="1873e8f6-f66d-4269-87be-53dc1f4a0709"
-          targetConnections="cbf861a0-f94e-4c1a-a809-f1fb7a6aac7b">
-        <bounds
-            x="48"
-            y="36"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_baf0baba-39a0-436d-9aec-b3d4dcc2e244.xml#baf0baba-39a0-436d-9aec-b3d4dcc2e244"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_e2eba238-2a99-4576-88b3-75e2a0a0ce67.xml#e2eba238-2a99-4576-88b3-75e2a0a0ce67"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="e101c922-2838-4508-a646-03f17be606a1"
         targetConnections="477f9dd5-abfe-4dea-a140-c4688656537e">
       <sourceConnections
