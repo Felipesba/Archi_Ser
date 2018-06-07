@@ -1,5 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bridge - Logon / Product Menu"
+    name="Bridge - Logon / Product Menu (Enhancement)"
     id="584d7949-60f4-447b-bf2b-650f638b700c"
-    documentation="Transação GR67 (Transação do Gerenciador)"/>
+    documentation="Transação GR67 (Transação do Gerenciador)&#xD;&#xA;&#xD;&#xA;Bridge específica para atender ao logon do menu de produtos. É realizada a autenticação do usuário (usuário + senha ou tokens) acionando a GR67 (retorna aos serviços que o usuário tem acesso para a montagem do menu através da PA).&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bridge Standart"
-    id="6713bb85-b295-46f1-8f09-fdc56b9d9bfb"/>
+    name="Bridge Padrão (Standard)"
+    id="6713bb85-b295-46f1-8f09-fdc56b9d9bfb"
+    documentation="Bridge com duas conversações (vide Bridge)"/>
