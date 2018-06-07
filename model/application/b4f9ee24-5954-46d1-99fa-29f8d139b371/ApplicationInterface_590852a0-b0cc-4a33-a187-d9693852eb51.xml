@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bridge - Digital Certificate"
-    id="590852a0-b0cc-4a33-a187-d9693852eb51"/>
+    name="Bridge - Digital Certificate (Enhancement)"
+    id="590852a0-b0cc-4a33-a187-d9693852eb51"
+    documentation="Bridge responsável pelos acessos via certificado digital. Ela não utiliza o SIGA por considerar uma transação confiável e também não acessa o RACF. A autenticação é realizada via token do certificado digital."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Encrypted Bridge (.Net)"
-    id="8276b203-4378-44a4-94b6-444a75a0626e"/>
+    name="Encrypted Bridge (.Net - Enhancement)"
+    id="8276b203-4378-44a4-94b6-444a75a0626e"
+    documentation="Bridget responsável pelos acessos via .net. Ela descriptografa a string e executa a transação solicitada."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pseudo Bridge - IPCON"
-    id="7757f04d-4da2-476b-949f-ff633c42c693"/>
+    id="7757f04d-4da2-476b-949f-ff633c42c693"
+    documentation="Não realiza conversão ASCII para EBCDIC e vice versa (por se tratar de uma comunicação host a host);&#xD;&#xA;Não utiliza Socket, a conversa é feita via TCPIP (SNA - IPCON - SNA);&#xD;&#xA;Não utiliza a SIGA (por não trafegar IP);&#xD;&#xA;Não faz autenticação explícita de usuário e senha ou tokens (por mainframe para mainframe já é feito a autenticação do usuário no RACF)."/>

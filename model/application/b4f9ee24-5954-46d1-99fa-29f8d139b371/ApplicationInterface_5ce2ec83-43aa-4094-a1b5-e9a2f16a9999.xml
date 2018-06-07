@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Enhancement Bridge (WAS, etc)"
-    id="5ce2ec83-43aa-4094-a1b5-e9a2f16a9999"/>
+    name="Bridge Padrão (Enhancement)"
+    id="5ce2ec83-43aa-4094-a1b5-e9a2f16a9999"
+    documentation="Bridge Padrão contemplando todas as transações que não são .net, por exemplo, WAS."/>

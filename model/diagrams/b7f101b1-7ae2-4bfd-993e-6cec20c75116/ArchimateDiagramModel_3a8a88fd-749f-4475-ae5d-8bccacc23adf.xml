@@ -312,10 +312,10 @@
             href="ServingRelationship_f75cc3a0-e869-495f-bf91-8ec7b360a578.xml#f75cc3a0-e869-495f-bf91-8ec7b360a578"/>
       </sourceConnections>
       <bounds
-          x="360"
-          y="192"
-          width="120"
-          height="55"/>
+          x="348"
+          y="193"
+          width="132"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_584d7949-60f4-447b-bf2b-650f638b700c.xml#584d7949-60f4-447b-bf2b-650f638b700c"/>
@@ -389,10 +389,10 @@
             href="ServingRelationship_acfff159-844f-47e9-8811-f34d9384e45a.xml#acfff159-844f-47e9-8811-f34d9384e45a"/>
       </sourceConnections>
       <bounds
-          x="492"
-          y="192"
-          width="120"
-          height="55"/>
+          x="493"
+          y="193"
+          width="132"
+          height="54"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_8276b203-4378-44a4-94b6-444a75a0626e.xml#8276b203-4378-44a4-94b6-444a75a0626e"/>
@@ -411,10 +411,10 @@
             href="ServingRelationship_0982a38a-3c66-44f8-9700-89bf9b997ac1.xml#0982a38a-3c66-44f8-9700-89bf9b997ac1"/>
       </sourceConnections>
       <bounds
-          x="624"
+          x="637"
           y="192"
-          width="120"
-          height="55"/>
+          width="132"
+          height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_5ce2ec83-43aa-4094-a1b5-e9a2f16a9999.xml#5ce2ec83-43aa-4094-a1b5-e9a2f16a9999"/>
@@ -424,10 +424,10 @@
         id="88feb823-8f92-4963-98b5-4061eeb7345e"
         targetConnections="c8a9136e-a7da-40bf-ba23-efd702fa8bae 159f6c2a-58eb-4d3b-a2db-e12aff66fcd8">
       <bounds
-          x="888"
+          x="912"
           y="192"
-          width="120"
-          height="55"/>
+          width="132"
+          height="54"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_590852a0-b0cc-4a33-a187-d9693852eb51.xml#590852a0-b0cc-4a33-a187-d9693852eb51"/>
@@ -446,7 +446,7 @@
             href="ServingRelationship_f65568f6-4444-4b28-bb0e-fc25a42696a3.xml#f65568f6-4444-4b28-bb0e-fc25a42696a3"/>
       </sourceConnections>
       <bounds
-          x="756"
+          x="780"
           y="192"
           width="120"
           height="55"/>
@@ -468,7 +468,7 @@
             href="ServingRelationship_d8b53ebd-d38c-4bec-92eb-fb7e3e207ad3.xml#d8b53ebd-d38c-4bec-92eb-fb7e3e207ad3"/>
       </sourceConnections>
       <bounds
-          x="1020"
+          x="1056"
           y="192"
           width="120"
           height="55"/>
