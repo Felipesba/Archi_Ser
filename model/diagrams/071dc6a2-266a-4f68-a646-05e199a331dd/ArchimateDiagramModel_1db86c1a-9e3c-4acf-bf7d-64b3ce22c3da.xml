@@ -15,7 +15,7 @@
         x="12"
         y="24"
         width="199"
-        height="542"/>
+        height="1052"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="00b1b2e3-9f36-457d-a9c1-ecd9afe9a496"
@@ -190,6 +190,20 @@
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_e476c9e6-cce7-4c44-97aa-3ed2c7ec4e5a.xml#e476c9e6-cce7-4c44-97aa-3ed2c7ec4e5a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="656eef74-af67-40f0-b6af-f254d4a6fa94"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="12"
+          y="540"
+          width="169"
+          height="505"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_491a23ee-09a5-4648-827a-83f6857aeefa.xml#491a23ee-09a5-4648-827a-83f6857aeefa"/>
     </children>
   </children>
   <children
@@ -448,8 +462,8 @@
       documentation="Layer responsible for the relationship with a whole with the customer, understanding the market and developing new products.&#xD;&#xA;">
     <bounds
         x="228"
-        y="204"
-        width="961"
+        y="192"
+        width="1081"
         height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -459,11 +473,227 @@
       <bounds
           x="12"
           y="36"
-          width="913"
+          width="529"
           height="109"/>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_eefeb02e-6b1e-406e-8e37-92b3d73c38f2.xml#eefeb02e-6b1e-406e-8e37-92b3d73c38f2"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="3856b185-9f0d-4406-b16e-fe612a03d880"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="552"
+          y="36"
+          width="505"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_41f37169-48b6-489d-b3d5-f38017c037ca.xml#41f37169-48b6-489d-b3d5-f38017c037ca"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="caf5f666-aa3f-4597-8da9-4b39905fd878"
+      name="Products &amp; Services"
+      textAlignment="1"
+      documentation="Products and services that Serasa makes available to the clients.&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="229"
+        y="372"
+        width="1080"
+        height="228"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="23f5ee19-627d-46d0-bd6e-0704c25703cf"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="12"
+          y="24"
+          width="529"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_76871663-7bb7-4775-8300-5ed7c2467411.xml#76871663-7bb7-4775-8300-5ed7c2467411"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f27b2cc4-0e2f-4199-859c-2941f616de34"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="552"
+          y="24"
+          width="505"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_e05fd764-a2ac-4e73-8b6f-2fe36dda06c4.xml#e05fd764-a2ac-4e73-8b6f-2fe36dda06c4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d4cade8f-e888-4e0c-b9e0-1c1dc0198302"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="552"
+          y="156"
+          width="505"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_96171129-14e6-479d-b98e-06c01409715b.xml#96171129-14e6-479d-b98e-06c01409715b"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="275d21ad-71f8-4ff9-b14e-9324d756ff69"
+      name="Data Management"
+      textAlignment="1"
+      documentation="Layer responsible for data manipulation that will be used for new business analysis and product development&#xD;&#xA;">
+    <bounds
+        x="229"
+        y="612"
+        width="1080"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="bce9b009-2f59-4b8e-941c-ee8f9eb657f4"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="12"
+          y="24"
+          width="529"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_da8ef157-b75f-4169-b4da-27d30e68b3b9.xml#da8ef157-b75f-4169-b4da-27d30e68b3b9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="87c48c80-c876-4cc3-8808-27964b0e7466"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="552"
+          y="24"
+          width="505"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_a712bc0f-8195-49dc-bdf5-ae799b6c549c.xml#a712bc0f-8195-49dc-bdf5-ae799b6c549c"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="24b33d82-9fac-4fc0-8a25-4ba2c376a877"
+      name="Operation"
+      textAlignment="1"
+      documentation="Layer responsible for supporting the operations, which includes the functionalities and activities responsible for the management of marketed products. It allows to evaluate the risks of the operation and its degree of conformity to established standards.&#xD;&#xA;">
+    <bounds
+        x="229"
+        y="780"
+        width="1080"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1df7dd1c-d128-46c3-bb84-941fb3b560a8"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="12"
+          y="24"
+          width="325"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_0020a457-1905-4e8b-a780-a7092d2b2575.xml#0020a457-1905-4e8b-a780-a7092d2b2575"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1b9e2e34-90f2-405c-842c-13b0b63bc267"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="372"
+          y="24"
+          width="325"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_7eb6b161-fade-44ef-92a8-f5efe4d92855.xml#7eb6b161-fade-44ef-92a8-f5efe4d92855"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1419ce5f-289a-483e-b874-5d1e90eb38e8"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="744"
+          y="24"
+          width="313"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_04a5c22c-04a7-4cd6-8d9d-dfb0895e6bdb.xml#04a5c22c-04a7-4cd6-8d9d-dfb0895e6bdb"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="b0ddd18d-744e-4349-b753-0bedcac75edb"
+      name="Business Support"
+      textAlignment="1"
+      documentation="Layer responsible for administrative and operational support services&#xD;&#xA;">
+    <bounds
+        x="229"
+        y="936"
+        width="1080"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ce587bb0-3290-4881-885f-e8293871cc28"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="12"
+          y="24"
+          width="325"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_7347ec59-6ec8-4c1f-b465-2daec9c55a0d.xml#7347ec59-6ec8-4c1f-b465-2daec9c55a0d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="db53dbe7-1f6b-4c4e-b259-5fe810a0a197"
+        fontColor="#ffffff"
+        fillColor="#0072ba">
+      <bounds
+          x="360"
+          y="24"
+          width="697"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_eb7476a2-178b-439f-9964-45a74f399847.xml#eb7476a2-178b-439f-9964-45a74f399847"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f6ae4c5b-0e97-4fa4-b6a1-7592506cd32d"
+      fontColor="#ffffff"
+      fillColor="#0072ba">
+    <bounds
+        x="240"
+        y="528"
+        width="529"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_95760b89-e4cd-47dd-96f2-7b22bbd675f4.xml#95760b89-e4cd-47dd-96f2-7b22bbd675f4"/>
   </children>
 </archimate:ArchimateDiagramModel>
