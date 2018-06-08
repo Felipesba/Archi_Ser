@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F_AMBIENTE_FRAUDNET"
+    id="d82e95fa-ddb3-46c3-b0e4-a1db9ce3e0a1"
+    documentation="Tabela com dados do ambiente Fraudnet (endpoints e chaves)"/>
