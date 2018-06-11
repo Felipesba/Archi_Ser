@@ -9,7 +9,7 @@
       name="CONCENTRE"
       textAlignment="1">
     <bounds
-        width="4476"
+        width="3912"
         height="1920"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -489,7 +489,7 @@
             href="AccessRelationship_d261f52a-ba30-4ad9-83bb-4c6c062ca9ca.xml#d261f52a-ba30-4ad9-83bb-4c6c062ca9ca"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="54"
           y="1140"
           width="265"
           height="88"/>
@@ -586,8 +586,8 @@
             href="CompositionRelationship_00a8a567-74ad-49a8-8c63-226ded83479c.xml#00a8a567-74ad-49a8-8c63-226ded83479c"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="1251"
+          x="54"
+          y="1248"
           width="348"
           height="88"/>
       <children
@@ -687,8 +687,8 @@
             href="CompositionRelationship_8275d6d9-0ab9-4a2a-823f-6240939e38f1.xml#8275d6d9-0ab9-4a2a-823f-6240939e38f1"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="1354"
+          x="54"
+          y="1344"
           width="360"
           height="88"/>
       <children
@@ -806,8 +806,8 @@
             href="CompositionRelationship_4d56dcae-3a64-4767-a2b3-ccffa98e23c2.xml#4d56dcae-3a64-4767-a2b3-ccffa98e23c2"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="1450"
+          x="54"
+          y="1440"
           width="445"
           height="88"/>
       <children
