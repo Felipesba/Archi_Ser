@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LP_LOGON_PERSONALIZADO"
+    id="111c9e85-840f-4531-bdf4-4f5ee6ae085d"
+    documentation="Expõe o menu personalizado (o mesmo menu pode ser exposto com paths / alias diferentes)"/>

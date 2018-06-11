@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Log 2 Factor"
-    id="9d60c655-3ab9-4778-8a1a-0b062173a632"/>
+    id="9d60c655-3ab9-4778-8a1a-0b062173a632"
+    documentation="Acessa:&#xD;&#xA;&#xD;&#xA;SF_CONTROLE_LOG_BLIN&#xD;&#xA;SF_HIST_LOG_BLIN"/>

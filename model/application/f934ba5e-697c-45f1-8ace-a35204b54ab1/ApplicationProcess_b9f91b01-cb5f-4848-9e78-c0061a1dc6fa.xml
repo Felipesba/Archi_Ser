@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PR_SE_SF_CAMPANHA_MENU"
+    id="b9f91b01-cb5f-4848-9e78-c0061a1dc6fa"
+    documentation="Procedure para buscar se deve exibir o banner para um determinado logon."/>
