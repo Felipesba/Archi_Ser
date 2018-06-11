@@ -650,18 +650,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="194ab676-6555-4bc3-bf07-e31db97b34fb">
-      <bounds
-          x="672"
-          y="144"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_828b2d57-8779-4e9a-9233-88d2242cbf95.xml#828b2d57-8779-4e9a-9233-88d2242cbf95"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="498d5fe1-520f-44c9-80ff-77c3fcdc1226">
       <bounds
           x="528"
