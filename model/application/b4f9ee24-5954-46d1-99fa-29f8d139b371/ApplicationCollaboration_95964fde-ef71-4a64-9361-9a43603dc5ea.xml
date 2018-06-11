@@ -1,0 +1,5 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bridge"
+    id="95964fde-ef71-4a64-9361-9a43603dc5ea"
+    documentation="Responsável pelos acessos e execução a transação solicitada.&#xD;&#xA;&#xD;&#xA;Recepção da string; &#xD;&#xA;Utiliza protocolo Socket para receber e devolver string em sua comunicação (enhancement ou standard);&#xD;&#xA;Converte de ASCII para EBCDIC e vice versa (quando necessário);&#xD;&#xA;Autenticação de usuário e senha ou tokens;&#xD;&#xA;Aciona o SIGA para verificação de IP (2 fator de autenticação);&#xD;&#xA;Executa a transação solicitada;&#xD;&#xA;Devolve a string de retorno montada pela transação.&#xD;&#xA;&#xD;&#xA;Enhancement -> O nome da Bridge já definida na porta da TCPIP. &#xD;&#xA;&#xD;&#xA;Standard -> É necessário informar o nome da Bridge, acarretando em duas &quot;conversas&quot;. A primeira é para informar qual Bridge e a segunda é propriamente a string de dados."/>
