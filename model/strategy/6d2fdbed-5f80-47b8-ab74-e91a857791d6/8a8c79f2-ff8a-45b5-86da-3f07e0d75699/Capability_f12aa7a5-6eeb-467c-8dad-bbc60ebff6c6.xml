@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resellers"
-    id="f12aa7a5-6eeb-467c-8dad-bbc60ebff6c6"/>
+    id="f12aa7a5-6eeb-467c-8dad-bbc60ebff6c6"
+    documentation="Service responsible for managing the Resellers channel&#xD;&#xA;"/>

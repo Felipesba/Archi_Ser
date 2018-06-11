@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Enriching"
+    id="c93ed11d-07f8-4d59-b95a-a919e2084788"
+    documentation="Service responsible for aggregating information of value to the data, ensuring that it is always complete and up-to-date for the analysis and generation of information.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contact Center "
-    id="bc74deca-988f-4454-a728-482edcd2031c"/>
+    id="bc74deca-988f-4454-a728-482edcd2031c"
+    documentation="Service responsible for managing the contact center channel&#xD;&#xA;"/>

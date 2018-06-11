@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product"
+    id="80ec0053-71c4-45fd-94f8-e1024a231aae"
+    documentation="Service responsible for registering, editing, deleting and maintaining product records&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

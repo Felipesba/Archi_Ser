@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analysis &amp; Segmentation"
+    id="c2cfbbff-faca-4ba5-bb58-6a9978ac8fa4"
+    documentation="Service responsible for conducting exploratory analysis, prediction, prediction, classification and segmentation of data based on different structured clients.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
