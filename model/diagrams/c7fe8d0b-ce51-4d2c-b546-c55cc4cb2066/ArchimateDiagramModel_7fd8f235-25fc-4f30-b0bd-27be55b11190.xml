@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AA - Concentre Execução"
+    name="AA - Concentre - Execution View"
     id="7fd8f235-25fc-4f30-b0bd-27be55b11190">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -9,7 +9,7 @@
       name="CONCENTRE"
       textAlignment="1">
     <bounds
-        width="3912"
+        width="3768"
         height="1920"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

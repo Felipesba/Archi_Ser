@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AA - Gerencie PF Execução"
+    name="AA - Gerencie PF - Execution View"
     id="69cb0586-1d2f-42b3-b4b2-3e3d3108500d">
   <children
       xsi:type="archimate:DiagramModelGroup"
