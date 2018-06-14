@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Provider Relationship Prive"
+    name="Private Data Provider Relationship"
     id="5623a608-006a-4357-ac39-709ea2952f61"
-    documentation="Service responsible for providing data to private organizations.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Service responsible for identifying and establishing relation to private entities that become data providers&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

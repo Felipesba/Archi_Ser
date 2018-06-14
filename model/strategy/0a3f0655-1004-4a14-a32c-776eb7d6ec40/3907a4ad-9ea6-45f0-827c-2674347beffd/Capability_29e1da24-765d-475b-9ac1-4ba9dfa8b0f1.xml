@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scoring"
-    id="29e1da24-765d-475b-9ac1-4ba9dfa8b0f1"
-    documentation="Service responsible for performing the process with different calculations to generate a profit score, market score, risk and industry score."/>
