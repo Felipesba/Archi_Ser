@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AA - Products Menu - Solution View"
+    name="AA - Menu de Produtos - Solution View"
     id="c5cb312d-ca9c-426f-aa6d-f021ba4a4e9e">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -36,18 +36,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_576beb59-90e8-4b0f-8661-1e58fdf1600a.xml#576beb59-90e8-4b0f-8661-1e58fdf1600a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="c4ea5d9d-f053-450b-ac1b-3854b50975b1">
-      <bounds
-          x="1224"
-          y="24"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_ce5c89dd-fab2-4b96-ae92-a10a32d519a6.xml#ce5c89dd-fab2-4b96-ae92-a10a32d519a6"/>
     </children>
   </children>
   <children
